@@ -30,10 +30,10 @@
 
 ```bash
 # clone 到你的技能根目录
-git clone https://github.com/<your-github-user>/product-display-board-skills.git /path/to/skills-root/
+git clone https://github.com/17702371576/product-display-board-skills.git /path/to/skills-root/
 
 # 或单独取这一个技能
-git clone --depth 1 https://github.com/<your-github-user>/product-display-board-skills.git /tmp/pdb
+git clone --depth 1 https://github.com/17702371576/product-display-board-skills.git /tmp/pdb
 cp -r /tmp/pdb/skills/product-display-board /path/to/your-skills/
 ```
 
